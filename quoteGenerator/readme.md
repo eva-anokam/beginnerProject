@@ -1,4 +1,4 @@
-# Quote generator
+# Dictionary app
 
 Quote generator is a beginner friendly javascript project that allows users to generate a new quote everytime the "generate quote" button is clicked
 
