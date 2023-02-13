@@ -1,0 +1,56 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    display: grid;
+    height: 100vh;
+    justify-content: center;
+    align-items:flex-end;
+    background-color: hsl(217, 19%, 24%);
+    font-family: Manrope;
+    font-weight: 800;
+}
+main{
+    background-color: hsl(217, 19%, 38%);
+    width: 50vw;
+    max-width: 30rem;
+    border-radius: 10px;
+    display: grid;
+    justify-content: center;
+    position: relative;
+
+}
+button{
+    background-color: hsl(150, 100%, 66%);
+    height: 3.5rem;
+    width: 3.5rem;
+    border: none;
+    display: grid;
+    place-content: center;
+    border-radius: 50%;
+    cursor: pointer;
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    transition:  all 1s;
+}
+button:hover{
+    background-color: hsl(150, 100%, 66%);
+    box-shadow:  0 0 5px hsl(150, 100%, 66%),  0 0 10px hsl(150, 100%, 66%),  0 0 15px hsl(150, 100%, 66%);
+}
+.svg-container{
+    display: block;
+    margin:  0 auto 3rem auto;
+}
+.adviceId{
+    color: hsl(150, 100%, 66%);
+    text-align: center;
+    font-size: 1.05rem;
+}
+.advice{
+    color: white;
+    font-size: 1.75rem;
+    text-align: center;
+    padding: 10px;
+}
