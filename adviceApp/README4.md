@@ -28,7 +28,7 @@ Users should be able to:
 - CSS Grid
 - Mobile-first workflow
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
+
 
 ### What I learned
 
@@ -51,9 +51,8 @@ I got to practice error handling with asynchronous programming
 
 I would like to cache the response so I can improve the page's performance
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
 
 ## Author
 
 - Website - [African Techie](https://www.africantechie.com)
-  **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
+  
